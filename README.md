@@ -1,3 +1,3 @@
-# Hello_World_Repo
+# maven-project
 
-Hello Readme
+Simple Maven Project
